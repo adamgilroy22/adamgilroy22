@@ -22,6 +22,6 @@ I'm actively seeking a junior position to contribute my skills and knowledge to 
 ## Get in Touch
 
 - 📧 Email: adamgilroy22@gmail.com
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/adamgilroy22/)
 
 I'm looking forward to connecting with like-minded professionals and employers in the tech field. Let's grow together and make a difference! 🌱
