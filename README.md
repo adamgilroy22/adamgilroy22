@@ -1,16 +1,27 @@
-### Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**adamgilroy22/adamgilroy22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Adam Gilroy, a dedicated Junior Full Stack Developer actively seeking job opportunities in the tech industry. I'm thrilled to share my coding journey and projects with you here on GitHub. Below, you'll find a collection of my work, showcasing my skills and passion for web development.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I hold a BSc in Information Technology from MTU.
+- 💻 I've recently completed a Diploma in Full Stack Software Development from Code Institute.
+- 🚀 Proficient in HTML, CSS, JavaScript, Python, and more.
+- 🌟 With over 3 years of experience as a WordPress Developer and Digital Marketing Specialist, I bring a unique perspective to my development work.
+
+## What You'll Find
+
+Here, you'll discover a diverse range of projects that reflect my passion for coding and problem-solving. My work includes web applications, websites, games, and more, developed using technologies like HTML5, CSS3, JavaScript, Python, Django, Bootstrap, and more. These projects showcase my skills in web development and creative problem-solving.
+
+Feel free to explore and interact with these projects!
+
+## Let's Connect
+
+I'm actively seeking a junior position to contribute my skills and knowledge to a forward-thinking team and kick-start my tech career. If you have insights or job opportunities, please feel free to get in touch. I'm open to discussing potential roles, networking, and learning from the GitHub community.
+
+## Get in Touch
+
+- 📧 Email: adamgilroy22@gmail.com
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
+
+I'm looking forward to connecting with like-minded professionals and employers in the tech field. Let's grow together and make a difference! 🌱
