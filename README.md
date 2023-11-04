@@ -24,4 +24,5 @@ I'm actively seeking a junior position to contribute my skills and knowledge to 
 - 📧 Email: adamgilroy22@gmail.com
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/adamgilroy22/)
 
-I'm looking forward to connecting with like-minded professionals and employers in the tech field. Let's grow together and make a difference! 🌱
+
+[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamgilroy22&show=stars,commits,prs,issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
