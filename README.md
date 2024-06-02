@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Hello, I'm Adam Gilroy, a dedicated Junior Full Stack Developer actively seeking job opportunities in the tech industry. I'm thrilled to share my coding journey and projects with you here on GitHub. Below, you'll find a collection of my work, showcasing my skills and passion for web development.
+Hello, I'm Adam! Technical support engineer by day, wannabe software engineer by night. I'm thrilled to share my coding journey and projects with you here on GitHub. Below, you'll find a collection of my work, showcasing my skills and passion for web development.
 
 ## About Me
 
@@ -17,7 +17,7 @@ Feel free to explore and interact with these projects!
 
 ## Let's Connect
 
-I'm actively seeking a junior position to contribute my skills and knowledge to a forward-thinking team and kick-start my tech career. If you have insights or job opportunities, please feel free to get in touch. I'm open to discussing potential roles, networking, and learning from the GitHub community.
+I'm always seeking to broaden my knowledge when it comes to all things tech, particularly when it comes to software development and programming. If you have insights or opportunities, please feel free to get in touch. I'm open to discussing potential roles, projects, networking, and learning from the GitHub community.
 
 ## Get in Touch
 
